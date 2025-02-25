@@ -1,8 +1,8 @@
-# SIG---GRUPO-RJ 06J
+# SIG - GRUPO-RJ 06J
 
 
-1.Gustaco Dima - 10408834
+1. Gustaco Dima - 10408834
 
-2.João Vitor Celaro - 10381778
+2. João Vitor Celaro - 10381778
 
-3.Rafael Pereira
+3. Rafael Pereira
